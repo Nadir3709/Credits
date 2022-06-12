@@ -1,0 +1,9 @@
+setclipboard("https://discord.gg/SuZYt36ybG")
+    
+local CoreGui = game:GetService("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+	Title = "Discord";
+	Text = "Link Copy To Clipboard";
+	Duration = 20;
+})
