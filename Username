@@ -1,0 +1,9 @@
+setclipboard("Nadir#1422")
+    
+local CoreGui = game:GetService("StarterGui")
+
+CoreGui:SetCore("SendNotification", {
+	Title = "Discord";
+	Text = "Username Copy To Clipboard";
+	Duration = 10;
+})
