@@ -1,4 +1,4 @@
-setclipboard("Nadir#1422")
+setclipboard("Nadir#0106")
     
 local CoreGui = game:GetService("StarterGui")
 
