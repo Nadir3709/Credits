@@ -1,4 +1,4 @@
-setclipboard("https://discord.gg/3tj6sBP4JY")
+setclipboard("https://discord.gg/Nvhb3EnMDX")
 local NofiticationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadir3709/Notification/main/NotificationHolder"))()
 local Nofitication = loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadir3709/Notification/main/Notification"))()
 
